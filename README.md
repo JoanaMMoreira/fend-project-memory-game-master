@@ -9,3 +9,5 @@ This game was built as a Udacity Course project. The purpose of the project is t
 Clicking on tiles will flip them over.
 Your goal is to match two tiles of the same type at a time.
 Then try to match all pairs in as minimum moves as possible.
+
+Published at: https://joanammoreira.github.io/fend-project-memory-game-master/
